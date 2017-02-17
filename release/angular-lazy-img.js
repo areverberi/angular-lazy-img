@@ -259,3 +259,5 @@ angular.module('angularLazyImg')
       };
     }
   ]);
+
+module.exports='angularLazyImg';
